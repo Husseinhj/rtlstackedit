@@ -1,11 +1,8 @@
 CACHE MANIFEST
-#ver:2018-10-27 18:20:13
+#ver:2018-11-14 22:15:25
 #plugin:5.0.5
 
 CACHE:
-/icons-c75a9472175cc17394ba6428d867fbcf/favicon.ico
-/icons-c75a9472175cc17394ba6428d867fbcf/manifest.json
-/icons-c75a9472175cc17394ba6428d867fbcf/manifest.webapp
 /4465ef46f616032afa20.worker.js
 /static/fonts/RobotoMono-Bold.819f3b2.woff
 /static/fonts/RobotoMono-Regular.0b6a547.woff
@@ -19,7 +16,6 @@ CACHE:
 /static/css/app.d83b2129d339c5c91de1a3ca429d8c76.css
 /static/landing/abc.png
 /static/landing/discussion.png
-/static/landing/favicon.ico
 /static/landing/gfm.png
 /static/landing/katex.gif
 /static/landing/logo.svg
@@ -31,6 +27,7 @@ CACHE:
 /static/landing/syntax-highlighting.gif
 /static/landing/twemoji.png
 /static/landing/workspace.png
+/static/landing/favicon.ico
 /static/sitemap.xml
 /manifest.e20cedff31d6e5d75ec9382b34c0dba1.json
 /icon_512x512.bc1452c3b77b59eb0d8c449de1c77310.png
