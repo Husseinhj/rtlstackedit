@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2018-11-15 18:14:23
+#ver:2018-11-15 18:34:18
 #plugin:5.0.5
 
 CACHE:
@@ -7,31 +7,32 @@ CACHE:
 /rtlstackedit/icons-c75a9472175cc17394ba6428d867fbcf/manifest.json
 /rtlstackedit/icons-c75a9472175cc17394ba6428d867fbcf/manifest.webapp
 /rtlstackedit/0406ad0f7bdd040309a9.worker.js
-/rtlstackedit/rtlstackedit/static/fonts/RobotoMono-Bold.819f3b2.woff
-/rtlstackedit/rtlstackedit/static/fonts/RobotoMono-Regular.0b6a547.woff
-/rtlstackedit/rtlstackedit/static/fonts/lato-black-italic.798eafd.woff
-/rtlstackedit/rtlstackedit/static/fonts/lato-black.f80bda6.woff
-/rtlstackedit/rtlstackedit/static/fonts/lato-normal-italic.f28f2d6.woff
-/rtlstackedit/rtlstackedit/static/fonts/lato-normal.27bd77b.woff
-/rtlstackedit/rtlstackedit/static/js/vendor.5b8cae3597095effe9a2.js
-/rtlstackedit/rtlstackedit/static/js/app.734b2dd57e3c23c0c611.js
-/rtlstackedit/rtlstackedit/static/js/manifest.226b85601ba3f6cc62b6.js
-/rtlstackedit/rtlstackedit/static/css/app.25f6c1a4ebf89375e440cfbef26b3251.css
-/rtlstackedit/rtlstackedit/static/landing/abc.png
-/rtlstackedit/rtlstackedit/static/landing/discussion.png
-/rtlstackedit/rtlstackedit/static/landing/favicon.ico
-/rtlstackedit/rtlstackedit/static/landing/gfm.png
-/rtlstackedit/rtlstackedit/static/landing/katex.gif
-/rtlstackedit/rtlstackedit/static/landing/logo.svg
-/rtlstackedit/rtlstackedit/static/landing/mermaid.gif
-/rtlstackedit/rtlstackedit/static/landing/navigation-bar.png
-/rtlstackedit/rtlstackedit/static/landing/providers.png
-/rtlstackedit/rtlstackedit/static/landing/scroll-sync.gif
-/rtlstackedit/rtlstackedit/static/landing/smart-layout.png
-/rtlstackedit/rtlstackedit/static/landing/syntax-highlighting.gif
-/rtlstackedit/rtlstackedit/static/landing/twemoji.png
-/rtlstackedit/rtlstackedit/static/landing/workspace.png
-/rtlstackedit/rtlstackedit/static/sitemap.xml
+/rtlstackedit/static/fonts/RobotoMono-Bold.819f3b2.woff
+/rtlstackedit/static/fonts/RobotoMono-Regular.0b6a547.woff
+/rtlstackedit/static/fonts/lato-black-italic.798eafd.woff
+/rtlstackedit/static/fonts/lato-black.f80bda6.woff
+/rtlstackedit/static/fonts/lato-normal-italic.f28f2d6.woff
+/rtlstackedit/static/fonts/lato-normal.27bd77b.woff
+/rtlstackedit/static/js/vendor.5b8cae3597095effe9a2.js
+/rtlstackedit/static/js/app.734b2dd57e3c23c0c611.js
+/rtlstackedit/static/js/manifest.107358d7ab087ba02a71.js
+/rtlstackedit/static/css/app.fddfabab29caa53a447cc472e58cea07.css
+/rtlstackedit/../
+/rtlstackedit/static/landing/abc.png
+/rtlstackedit/static/landing/discussion.png
+/rtlstackedit/static/landing/favicon.ico
+/rtlstackedit/static/landing/gfm.png
+/rtlstackedit/static/landing/katex.gif
+/rtlstackedit/static/landing/logo.svg
+/rtlstackedit/static/landing/mermaid.gif
+/rtlstackedit/static/landing/navigation-bar.png
+/rtlstackedit/static/landing/providers.png
+/rtlstackedit/static/landing/scroll-sync.gif
+/rtlstackedit/static/landing/smart-layout.png
+/rtlstackedit/static/landing/syntax-highlighting.gif
+/rtlstackedit/static/landing/twemoji.png
+/rtlstackedit/static/landing/workspace.png
+/rtlstackedit/static/sitemap.xml
 /rtlstackedit/manifest.74943d060d9ac20bf01dff4419e8e2ec.json
 /rtlstackedit/icon_512x512.bc1452c3b77b59eb0d8c449de1c77310.png
 /rtlstackedit/icon_384x384.3f55b77300c8b37b4aa380c8460ee0a2.png
