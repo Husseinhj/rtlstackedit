@@ -1,5 +1,7 @@
 # RTL version of stackedit.io website
 
+<img src="https://raw.githubusercontent.com/Husseinhj/rtlstackedit/master/Screenshots/preview.png" width="100%" height="100%"/>
+
 ## How to Use
 ### Toolbar
 At the toolbar can change the preview direction:
@@ -11,8 +13,6 @@ At the toolbar can change the preview direction:
 
 ### Settings
 1) To use the RTL version, first Open [rtlStackedit](https://husseinhj.github.io/rtlstackedit/#) website
-
-<img src="https://raw.githubusercontent.com/Husseinhj/rtlstackedit/master/Screenshots/preview.png" width="100%" height="100%"/>
 
 2) Then Go to **More** option in the **side bar** by clicking **stackedit's** icon on the upper right:
 
