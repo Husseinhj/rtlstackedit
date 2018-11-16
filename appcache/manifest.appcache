@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2018-11-16 16:49:21
+#ver:2018-11-16 17:08:56
 #plugin:5.0.5
 
 CACHE:
@@ -14,22 +14,22 @@ CACHE:
 /rtlstackedit/static/fonts/lato-normal-italic.f28f2d6.woff
 /rtlstackedit/static/fonts/lato-normal.27bd77b.woff
 /rtlstackedit/static/js/vendor.fa0cf85e9964a32def60.js
-/rtlstackedit/static/js/app.4b9de7263d7b20868b0e.js
-/rtlstackedit/static/js/manifest.6a3d71476512f6b3ad5e.js
+/rtlstackedit/static/js/app.a8a728334305e5da4c63.js
+/rtlstackedit/static/js/manifest.f996288a91438bcde31c.js
 /rtlstackedit/static/css/app.355ef095c5df753a0f63da41c0b19811.css
 /rtlstackedit/../
 /rtlstackedit/static/landing/gfm.png
 /rtlstackedit/static/landing/abc.png
-/rtlstackedit/static/landing/favicon.ico
 /rtlstackedit/static/landing/discussion.png
-/rtlstackedit/static/landing/logo.svg
+/rtlstackedit/static/landing/favicon.ico
 /rtlstackedit/static/landing/katex.gif
+/rtlstackedit/static/landing/logo.svg
 /rtlstackedit/static/landing/mermaid.gif
 /rtlstackedit/static/landing/navigation-bar.png
 /rtlstackedit/static/landing/providers.png
 /rtlstackedit/static/landing/smart-layout.png
-/rtlstackedit/static/landing/twemoji.png
 /rtlstackedit/static/landing/scroll-sync.gif
+/rtlstackedit/static/landing/twemoji.png
 /rtlstackedit/static/landing/syntax-highlighting.gif
 /rtlstackedit/static/landing/workspace.png
 /rtlstackedit/static/sitemap.xml
@@ -42,7 +42,7 @@ CACHE:
 /rtlstackedit/icon_96x96.1d93fc90dc62ceec6c921786ddab3f69.png
 /
 /app
-/oauth2/callback
+/rtlstackedit/oauth2/callback
 
 NETWORK:
 *
