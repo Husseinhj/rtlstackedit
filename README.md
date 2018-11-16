@@ -9,7 +9,7 @@ At the toolbar can change the preview direction:
 1) By clicking on (1) the preview section will show mark down **right to left**.
 2) By clicking on (2) the preview section will show mark down **left to right**.
 
-### Setting
+### Settings
 1) To use the RTL version, first Open [rtlStackedit](https://husseinhj.github.io/rtlstackedit/#) website
 
 <img src="https://raw.githubusercontent.com/Husseinhj/rtlstackedit/master/Screenshots/preview.png" width="100%" height="100%"/>
