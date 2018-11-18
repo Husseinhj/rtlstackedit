@@ -113,7 +113,11 @@
             console.log('disconnected');
         });
 
-        chabok.register("TTTTTTEEEEEEEEEESSSSSSSTTTTTTT");
+        chabok.register("TTTTTTEEEEEEEEEESSSSSSSTTTTTTT").then((object) => {
+            console.log("@######## then ",object);
+        }).catch((ex)=>{
+            console.log("@######## catch ",ex);
+        });
 
         // if (chabok.isRegistered() && chabok.getUserId()) {
         //     chabok.register(chabok.getUserId());
