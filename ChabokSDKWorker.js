@@ -5855,7 +5855,7 @@
             }, {
                 key: "registerServiceWorker", value: function () {
                     var t = this;
-                    "serviceWorker" in navigator ? navigator.serviceWorker.register("/rtlstackedit/ChabokSDKWorker.js").then(function (e) {
+                    "serviceWorker" in navigator ? navigator.serviceWorker.register("/ChabokSDKWorker.js").then(function (e) {
                         return t.initializeState(), navigator.serviceWorker.ready
                     }).catch(function (t) {
                     }) : this.emit("tokenSubscription", "notSupported")
