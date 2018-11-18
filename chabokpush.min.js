@@ -3010,7 +3010,7 @@
                     key: "showLocalNotification", value: function (t, e) {
                         t = t || {};
                         var n = t.title || "پیام جدید",
-                            r = {body: t.body, icon: t.icon || "http://chabokpush.com/www/image/chabok-logo-big.png"};
+                            r = {body: t.body, icon: t.icon || "https://husseinhj.github.io/rtlstackedit/icons-c75a9472175cc17394ba6428d867fbcf/firefox_app_128x128.png"};
                         t.groupId && (r.tag = t.groupId);
                         var i = e || 5e3;
                         Notification.requestPermission(function (e) {
