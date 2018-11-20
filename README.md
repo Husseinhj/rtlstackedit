@@ -30,4 +30,4 @@ editor:
 ```
 <img src="https://github.com/Husseinhj/rtlstackedit/raw/master/Screenshots/Custom-Settings.png" width="50%" height="50%"/>
 
-5) Finally Refresh the page and Enjoy 😊✌🏻:
+5) Finally Refresh the page and Enjoy 😊✌
