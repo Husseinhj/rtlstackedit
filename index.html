@@ -113,13 +113,10 @@
             console.log('disconnected');
         });
 
-        if (chabok.isRegistered() && chabok.getUserId()) {
-            chabok.register(chabok.getUserId());
-        } else {
-            let userId = Math.random().toString(36).substring(2)
-                + (new Date()).getTime().toString(36);
-            chabok.register(userId);
-        }
+        chabok.unregister();
+        chabok.register(userId);
+        chabok.addTag('registered');
+        
     });
 </script>
 </body>
